@@ -6,6 +6,8 @@ I tried to keep the code as self-documenting as possible, but I've also left som
 
 Some areas can still be improved, specially in the way JSON data is fetched from the API, which I can explain further, if desired.
 
+I have also implemented a few example Unit Tests on the Boligmappa-challenge.Tests project.
+
 ## Application requirements
 The only requirement for building and running this application are the .NET 7.0 SDK and a PostgreSQL instance.
 
